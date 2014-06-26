@@ -1,10 +1,5 @@
-furry-octo-bugfixes
-===================
-
-CodeAnywhere DevBox Testing
-
 sudo yum install -y gcc-c++ python-devel python-pip
-sudo pip install pandas flask
+sudo pip install flask
 
 
 git config  --global core.editor "nano"
